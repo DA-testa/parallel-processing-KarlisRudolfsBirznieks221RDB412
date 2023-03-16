@@ -25,8 +25,7 @@ def main():
 
      # second line - data 
     # data - contains m integers t(i) - the times in seconds it takes any thread to process i-th job
-    #data = []
-
+    
     # TODO: create the function
     result = parallel_processing(n, m, data)
     
